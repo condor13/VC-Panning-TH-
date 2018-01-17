@@ -6,11 +6,11 @@ BOM
 
 ------##MISC##
 
-100K potentionmeter                  (1) thonk or tayda
+100K potentionmeter                  (1) 
 
-PJ302M Jacks                         (3) thonk
+PJ302M Jacks                         (3) 
 
-10k ohm                              (2) thonk or tayda
+10k ohm                              (2) 
 
 Transistor 2n3906                    (2) 
 
