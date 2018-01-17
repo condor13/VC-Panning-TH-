@@ -6,8 +6,11 @@ BOM
 
 ------##MISC##
 100K potentionmeter                  (1) thonk or tayda
+
 PJ302M Jacks                         (3) thonk
+
 10k ohm                              (2) thonk or tayda
+
 Transistor 2n3906                    (2) 
 1N5819 Schottky Diodes               (3)
 8 pin ic socket                      (1) 
