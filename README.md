@@ -14,7 +14,9 @@ PJ302M Jacks                         (3)
 
 Transistor 2n3906                    (2) 
 
-1N5819 Schottky Diodes               (3)
+1N5819 Schottky Diodes               (2)
+
+1N4148 Schottky Diodes               (2)
 
 8 pin ic socket                      (1) 
 
